@@ -55,7 +55,7 @@
     },
     "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": {
       "description": "should be an integer. Number of seconds to wait before cancelling a torrent.",
-      "value": "30"
+      "value": "30",
       "required": false
     }
   },
